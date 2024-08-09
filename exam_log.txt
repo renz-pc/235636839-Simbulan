@@ -162,3 +162,36 @@
   162  pwd
   163  git checkout -b finalexam
   164  history > exam_log.txt
+  165  git add . exam_log.txt
+  166  git commit -m "Added exam_log.txt with command history"
+  167  git push origin finalexam
+  168  ssh-keygen -t ed25519 -C "renz9204@gmail.com"
+  169  git remote set-url origin git@github.com:renz-pc/235636839-Simbulan.git
+  170  git remote -v
+  171  ssh -T git@github.com
+  172  ls -l ~/.ssh/id_ed25519
+  173  git push -u origin finalexam
+  174  ls
+  175  git push -u origin finalexam
+  176  git add exam_log.txt
+  177  git commit -m "Added exam_log.txt with command history"
+  178  rm "eval \"$(ssh-agent -s)\""
+  179  ls -l
+  180  rm 'eval "$(ssh-agent -s)"'
+  181  rm 'eval "$(ssh-agent -s)".pub'
+  182  ls
+  183  git commit -m "Added exam_log.txt with command history"
+  184  git add exam_log.txt
+  185  git commit -m "Added exam_log.txt with command history"
+  186  git status
+  187  ls
+  188  git add exam_log.txt
+  189  git commit -m "Added exam_log.txt with command history"
+  190  git status
+  191  ls -l exam_log.txt
+  192  cat .gitignore
+  193  exam_log.txt
+  194  cat exam_log.txt
+  195  gh auth login
+  196  git checkout -b finalexam
+  197  history > exam_log.txt
