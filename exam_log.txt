@@ -1,0 +1,164 @@
+    1  apt install default-jdk
+    2  neofetch
+    3  pkg install list -install
+    4  exit
+    5  pkg list-install
+    6  exit
+    7  apt --installes
+    8  apt --installed
+    9  apt -
+   10  list
+   11  -list
+   12  --list
+   13  apt -l
+   14  dpkg --get-selections
+   15  pkg list-installed
+   16  apt list --installed
+   17  sshd
+   18  nano
+   19  code .
+   20  exit
+   21  apt list-installed
+   22  apt help
+   23  apt list
+   24  apt list installed
+   25  apt help
+   26  apt install git
+   27  apt install ghub
+   28  apt install gh
+   29  apt install python3
+   30  apt install apache2
+   31  apt update
+   32  apt upgrade
+   33  exit
+   34  pwd
+   35  mkdir linux_practice
+   36  pwd
+   37  cd linux_practice
+   38  touch notes.txt
+   39  nano notes.txt
+   40  cat notes.txt
+   41  mkdir linux_practice
+   42  mv notes.txt 
+   43  mv --help
+   44  mv notes.txt
+   45  pwd
+   46  list
+   47  ls
+   48  mv notes.txt
+   49  mv notes.txt linux_practice
+   50  ls
+   51  cd linux_practice
+   52  ls
+   53  cd ..
+   54  ren linux_practice practice_subdir
+   55  ls
+   56  cd linux_practice
+   57  ls
+   58  mv linux_practice practice_subdir
+   59  ls
+   60  mv notes.txt linux_practice
+   61  ls
+   62  cd ..
+   63  ls
+   64  cd linux_practice 
+   65  ls
+   66  cp notes.txt linux_practice
+   67  mv practice_subdir
+   68  mv src linux_practice
+   69  cd ..
+   70  echo >> notes.txt
+   71  echo > notes.txt
+   72  mv subdir practice_subdir
+   73  time
+   74  uptime
+   75  df
+   76  ssh -V
+   77  php -V
+   78  ssh -V
+   79  phython3 -V
+   80  phython3 --versiin
+   81  phython3 --version
+   82  java -v
+   83  java -V
+   84  mysql --version
+   85  history
+   86  cd ..
+   87  git clone https://github.com/renz-pc/235636839-Simbulan
+   88  cd 235636839-Simbulan
+   89  cd linux_practice
+   90  touch notes.txt
+   91  ls >> notes.txt
+   92  cat notes.txt
+   93  echo "Hello, Linux!" > notes.txt
+   94  echo "This is a practical exam." >> notes.txt
+   95  cd ..
+   96  history
+   97  cd 235636839-Simbulan
+   98  clear
+   99  git clone https://github.com/renz-pc/235636839-Simbulan.git
+  100  cd 2356326839-Simbulan
+  101  pwd
+  102  ls
+  103  find ~ -type d -name 235636839-Simbulan
+  104  ls
+  105  mkdir 235636839-Simbulan
+  106  cd 235636839-Simbulan
+  107  mkdir linux_practice
+  108  touch notes.txt
+  109  ls > notes.txt
+  110  cat notes.txt
+  111  echo "Hello, Linux!" >> notes.txt
+  112  echo "This is a practical exam." >> notes.txt
+  113  head notes.txt
+  114  tail notes.txt
+  115  mkdir subdir
+  116  mv notes.txt subdir
+  117  ls
+  118  mv subdir practice_subdir
+  119  cd practice_subdir
+  120  cp notes.txt practice_subdir
+  121  cd ..
+  122  ls
+  123  date
+  124  uptime
+  125  du -sh ~
+  126  ssh -v
+  127  ssh -V
+  128  php -V
+  129  python3 -v
+  130  java -v
+  131  java -V
+  132  python3 -V
+  133  apache3 -V
+  134  apache3 -v
+  135  apache2 -V
+  136  mysql -v
+  137  mysql -V
+  138  git checkout -b finalexam
+  139  history > exam_log.txt
+  140  git add exam_log.txt
+  141  git commit -m "Added exam log"
+  142  git push origin finalexam
+  143  git remote set-url origin https://github.com/renz-pc/235636839-Simbulan
+  144  git push -u origin finalexam
+  145  git config --global user.name "renz-pc"
+  146  git config --global user.email "renz9204@gmail.com"
+  147* 
+  148  ssh-keygen -t ed25519 -C "renz9204@gmail.com"
+  149  git remote set-url origin git@github.com:renz-pc/235636839-Simbulan.git
+  150  git remote set-url origin https://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github.com/renz-pc/235636839-Simbulan.git
+  151  git push -u origin finalexam
+  152  git remote set-url origin git@github.com:renz-pc/235636839-Simbulan.git
+  153  git push -u origin finalexam
+  154  git init
+  155  pwd
+  156  ls
+  157  git config --global user.email "renz9204@gmail.com"
+  158  git config --global user.name "renz-pc"
+  159  git remote add origin https://github.com/renz-pc/235636839-Simbulan
+  160  ls
+  161  pws
+  162  pwd
+  163  git checkout -b finalexam
+  164  history > exam_log.txt
